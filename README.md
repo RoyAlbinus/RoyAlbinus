@@ -1,4 +1,12 @@
 ### Hi there 👋
+Welcome to my Github page. 
+
+I want to better myself in programmig. For work i have done some C# projects and they are still in use today. 
+There are many programming languages that i want to try like JavaScript , Python , Rust and Haskell
+
+So if you have a small project i can contritibute or help you with let me know. 
+
+
 
 <!--
 **RoyAlbinus/RoyAlbinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
